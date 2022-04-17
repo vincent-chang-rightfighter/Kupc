@@ -273,7 +273,7 @@ style.configure("Treeview.Heading", font=("Microsoft JhengHei", LARGE_FONT, "bol
 style.configure("Treeview", font=("Microsoft JhengHei", SMALL_FONT),
                 rowheight=int(SMALL_FONT*3.5))
 
-root.title('庫 PC 查價 ( Powered by vinc#5485 )')
+root.title('庫 PC 查價')
 
 tabcontrol = Notebook(root)
 tabcontrol.place(x=10, y=5, width=1050, height=115)
