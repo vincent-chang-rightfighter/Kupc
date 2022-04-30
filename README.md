@@ -18,7 +18,7 @@
 ```
 ## 程式執行截圖
 
-<img src = https://user-images.githubusercontent.com/9475656/163704312-08c5beab-e92d-448e-84a7-99e955c9f575.png>
+![Screenshot](https://github.com/vincent-chang-rightfighter/Kupc/blob/master/Screenshot_1.png)
 
 
 ## 為什麼開發
