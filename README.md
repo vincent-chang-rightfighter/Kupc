@@ -18,7 +18,7 @@
 ```
 ## 程式執行截圖
 
-![Screenshot](https://github.com/vincent-chang-rightfighter/Kupc/blob/main/Screenshot_1.png)
+![Screenshot](https://github.com/vincent-chang-rightfighter/Kupc/blob/main/ScreenShot_1.png)
 
 
 ## 為什麼開發
